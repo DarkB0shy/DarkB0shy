@@ -8,7 +8,7 @@
 
 <h3 align="center">My 42 projects:</h3>
 
-<h3 align="left">Libft<p align = "center"> <a href = https://github.com/DarkB0shy/libft_42> <img src="https://badge42.vercel.app/api/v2/clfxzfejm002507lf2lm1psus/project/2943503" /></a></p></h3>
+<h3 align="left">Libft<p align = "center"> <a href = https://github.com/DarkB0shy/Libft_42> <img src="https://badge42.vercel.app/api/v2/clfxzfejm002507lf2lm1psus/project/2943503" /></a></p></h3>
 
 <h3 align="left">get_next_line<p align ="center"> <a href = "https://github.com/DarkB0shy/get_next_line_42"> <img src="https://badge42.vercel.app/api/v2/clfxzfejm002507lf2lm1psus/project/2950438" /></a></p></h3>
 
