@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Davide Carassiti</h1>
+<h1 align="center">Hi 👋 I'm Davide Carassiti</h1>
 <h3 align="center">I am a student at 42 Rome</h3>
 
 - 📫 How to reach me: **dcarassi@student.42roma.it**
