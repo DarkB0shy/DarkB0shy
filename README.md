@@ -21,9 +21,6 @@
 
 <h3 align="left">Born2beroot<p align ="left"> <a href = "https://github.com/DarkB0shy/Born2beroot_42"> <img src="https://badge42.vercel.app/api/v2/clfxzfejm002507lf2lm1psus/project/2968833" /></a></p></h3>
 
-
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clfxzfejm002507lf2lm1psus/project/2968833" alt="dcarassi's 42 Born2beroot Score" /></a>
-
 <h3 align="left">minitalk<p align ="left"> <a href = "https://github.com/DarkB0shy/minitalk_42"> <img src="https://badge42.vercel.app/api/v2/clfxzfejm002507lf2lm1psus/project/3002273" /></a></p></h3>
 
 <h3 align="left">push_swap<p align ="left"> <a href = "https://github.com/DarkB0shy/push_swap_42"> <img src="https://badge42.vercel.app/api/v2/clfxzfejm002507lf2lm1psus/project/3024020" /></a></p></h3>
