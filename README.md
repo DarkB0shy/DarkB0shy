@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Davide Carassiti</h1>
-<h3 align="center">I am a student at 42, Rome</h3>
-- 🌱 I’m currently learning C, C++
-- 📫 How to reach me dcarassi@student.42roma.it
-- ⚡ Fun fact: nobody expects the Spanish Inquisition.
+<h3 align="center">I am a student at 42, Rome.</h3>
+<p align = "left">I’m currently learning C, C++. You can reach me at: dcarassi@student.42roma.it</p>
+<h3 align = "center">Nobody expects the Spanish Inquisition.</h3>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
